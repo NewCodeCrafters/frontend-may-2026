@@ -1,0 +1,29 @@
+/* universal selector */
+* {
+    margin: 0;
+    box-sizing: 0;
+    padding: 0;
+}
+
+/* class selector */
+.style {
+    color: whitesmoke;
+    background-color: black ;
+}
+
+.first-container {
+   background-color: aqua;
+}
+
+/* h1 {
+    background-color: blue;
+    
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+} */
